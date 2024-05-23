@@ -1,4 +1,4 @@
-<h1>Hi, I'm Brian! <br/><a href="https://www.linkedin.com/in/briankeithboquiren03/</a></h1>
+<h1>Hi, I'm Brian!</h1>
                           
 <h2>👨‍💻 Active Directory HomeLab</h2>
 
