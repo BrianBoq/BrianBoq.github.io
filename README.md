@@ -3,11 +3,14 @@
 <h2>👨‍💻 Active Directory HomeLab Projects</h2>
 
 - <b>Linux Administrator in Oracle VirtualBox (Ubuntu)</b>
-  - Practicing Linux Commands for File System <br>
+  - Practicing Linux Commands for File System
+    
 - <b>Active Directory Domain Services HomeLab in Hyper-V (Windows Server 2019)</b>
-  - Practicing Active Directory for Organizational Unit, Groups and Users <br>
+  - Practicing Active Directory for Organizational Unit, Groups and Users
+    
 - <b>PowerShell</b>
   - Adding Lists of Users in Active Directory through Power Shell
+    
 
 <h2>📺 Popular YouTube Videos</h2>
 
